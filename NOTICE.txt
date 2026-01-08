@@ -1,0 +1,11 @@
+Copyright The Apache Software Foundation.
+Licensed under the Apache License, Version 2.0 (the "License");
+http://www.apache.org/licenses/LICENSE-2.0
+
+Original project: kafka/clients/ - https://github.com/apache/kafka/tree/trunk/clients
+
+------------------------------------------------------------------
+Modifications made by EIS Group:
+- 2.6.3-e2 patch kafka-clients to remove synchronized blocks
+
+https://github.com/eis-group-opensource/kafka-clients
